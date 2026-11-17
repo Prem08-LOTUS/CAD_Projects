@@ -7,7 +7,7 @@ Programmatic 3D solid modeling, manufacturing-ready `.STEP` / `.STL` assemblies,
 ## Featured Assemblies
 
 ### 01. IP65 CNC-Machined 6061-T6 Robotics Controller Enclosure
-* **Files:** [`./Project1`](./Project1) (`Assembled.step`, `Exploded.step`, `Exploded.stl`, `Build_Script.py`, `Verification_Report.md`)
+* **Files:** [`./Project1`](./Project1) (`Assembled.step`, `Exploded.step`, `Exploded.stl`)
 * **Envelope & Mass:** `140.0 × 95.0 × 42.0 mm` | `334.6 cm³` unobstructed internal cavity | `0.417 kg` (6061-T6 Aluminum)
 * **Engineering Highlights:**
   * Continuous `2.0 × 1.5 mm` perimeter elastomer O-ring gland clearing `6× M3` countersunk lid fasteners.
@@ -20,7 +20,7 @@ Programmatic 3D solid modeling, manufacturing-ready `.STEP` / `.STL` assemblies,
 ---
 
 ### 02. NEMA-17 5:1 Planetary Gearbox Actuator (7-Solid Assembly)
-* **Files:** [`./Project2`](./Project2) (`Assembled.step`, `Exploded.step`, `Assembled.stl`, `Exploded.stl`, `Build_Script.py`, `Verification_Report.md`)
+* **Files:** [`./Project2`](./Project2) (`Assembled.step`, `Exploded.step`, `Assembled.stl`, `Exploded.stl`)
 * **Kinematics & Envelope:** `5.0:1` reduction (`m = 1.0 mm`, `Z_sun = 12`, `3× Z_planet = 18`, `Z_ring = 48`) | `56.0 × 56.0 × 48.0 mm` | `0.243 kg`
 * **Engineering Highlights:**
   * Standard NEMA-17 mounting flange (`42.3 mm` square, `31.0 mm` M3 bolt span, `Ø22.2 mm` pilot recess) and `Ø5.0 mm` D-bore sun pinion.
